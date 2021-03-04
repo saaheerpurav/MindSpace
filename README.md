@@ -1,6 +1,6 @@
 # MindSpace
 
-<img src="https://i.ibb.co/JpNP3Vv/Mockup.png">
+<img src="https://i.ibb.co/xJrrw6v/final.png">
 
 # School Databank
 
